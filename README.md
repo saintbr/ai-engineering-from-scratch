@@ -1,4 +1,5 @@
 <p align="center">
+  https://saintbr.github.io/ai-engineering-from-scratch/
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/readme/header-dark.svg">
     <img src="assets/readme/header-light.svg" alt="AI Engineering from Scratch" width="840">
